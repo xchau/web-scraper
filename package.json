@@ -1,0 +1,30 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "A simple web scraper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xchau/web-scraper.git"
+  },
+  "keywords": [
+    "express",
+    "request",
+    "cheerio",
+    "node"
+  ],
+  "author": "Minh Chau <xiu.chau@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xchau/web-scraper/issues"
+  },
+  "homepage": "https://github.com/xchau/web-scraper#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
